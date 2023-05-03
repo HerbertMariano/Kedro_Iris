@@ -2,6 +2,8 @@
 
 ## Overview
 
+Trying out Kedro on the Iris dataset from scratch
+
 This is your new Kedro project, which was generated using `Kedro 0.18.7`.
 
 Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
